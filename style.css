@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+QLD:wght@100..400&display=swap');
+
+
+*,
+*::before,
+*::after
+{
+    font-family:"Playwrite AU QLD",sans-serif;
+    box-sizing: border-box;
+    background-color: whitesmoke;
+    margin: 0;
+    padding: 0;
+}
+.title{
+    margin-top: .25rem;
+    margin-bottom: .5rem;
+    text-align: center;
+    /* border: 2px solid black; */
+}
+img{
+    display: block;
+    max-width:60%;
+    /* height: 40%; */
+    margin:5px auto 5px;
+}
